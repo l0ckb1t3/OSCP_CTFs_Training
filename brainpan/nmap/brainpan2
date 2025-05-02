@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Sat Mar 15 14:24:14 2025 as: /usr/lib/nmap/nmap -sV -sC -O -oG brainpan2 10.0.2.38
+Host: 10.0.2.38 ()	Status: Up
+Host: 10.0.2.38 ()	Ports: 9999/open/tcp//abyss?///, 10000/open/tcp//http//SimpleHTTPServer 0.6 (Python 2.7.3)/	Ignored State: closed (998)	OS: Linux 2.6.32 - 3.10	Seq Index: 261	IP ID Seq: All zeros
+# Nmap done at Sat Mar 15 14:24:56 2025 -- 1 IP address (1 host up) scanned in 42.79 seconds
